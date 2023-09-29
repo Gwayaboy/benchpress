@@ -40,5 +40,9 @@
       ]
     }
   },
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+  "runArgs":[
+    "--env-file",
+    ".env"
+  ]
 }
